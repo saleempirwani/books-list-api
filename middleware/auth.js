@@ -1,6 +1,6 @@
 module.exports.auth = async (req, res, next) => {
   try {
-    const apiKey = req.header("API-Key");
+    const apiKey = req.header("x-api-key");
 
     if (apiKey !== "hello_world") {
       throw new Error();
