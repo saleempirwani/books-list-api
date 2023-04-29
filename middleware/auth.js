@@ -2,7 +2,7 @@ module.exports.auth = async (req, res, next) => {
   try {
     const apiKey = req.header("x-api-key");
 
-    if (apiKey !== "hello_world") {
+    if (apiKey !== "#b0@6hX8YasCq6^unOaPw1tqR") {
       throw new Error();
     }
 
