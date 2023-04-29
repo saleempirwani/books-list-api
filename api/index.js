@@ -16,7 +16,7 @@ app.get("/", (req, res) => {
   res.send({ message: "Unauthorized" });
 });
 
-app.get("/books", (req, res) => {
+app.get("/books", auth, (req, res) => {
   res.send({ data: BOOKS, message: "Successfully fetch" });
 });
 
