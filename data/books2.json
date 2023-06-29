@@ -7,10 +7,7 @@
     "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
     "pages": 209,
     "title": "Things Fall Apart",
-    "year": 1958,
-    "price": 19,
-    "rating": 1,
-    "reviews": 211
+    "year": 1958
   },
   {
     "author": "Hans Christian Andersen",
@@ -20,10 +17,7 @@
     "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
     "pages": 784,
     "title": "Fairy tales",
-    "year": 1836,
-    "price": 15,
-    "rating": 3,
-    "reviews": 177
+    "year": 1836
   },
   {
     "author": "Dante Alighieri",
@@ -33,10 +27,7 @@
     "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
     "pages": 928,
     "title": "The Divine Comedy",
-    "year": 1315,
-    "price": 63,
-    "rating": 4,
-    "reviews": 412
+    "year": 1315
   },
   {
     "author": "Unknown",
@@ -46,10 +37,7 @@
     "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh\n",
     "pages": 160,
     "title": "The Epic Of Gilgamesh",
-    "year": 1700,
-    "price": 2,
-    "rating": 3,
-    "reviews": 374
+    "year": 1700
   },
   {
     "author": "Unknown",
@@ -59,10 +47,7 @@
     "link": "https://en.wikipedia.org/wiki/Book_of_Job\n",
     "pages": 176,
     "title": "The Book Of Job",
-    "year": 600,
-    "price": 73,
-    "rating": 0,
-    "reviews": 280
+    "year": 600
   },
   {
     "author": "Unknown",
@@ -72,10 +57,7 @@
     "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights\n",
     "pages": 288,
     "title": "One Thousand and One Nights",
-    "year": 1200,
-    "price": 39,
-    "rating": 2,
-    "reviews": 250
+    "year": 1200
   },
   {
     "author": "Unknown",
@@ -85,10 +67,7 @@
     "link": "https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga\n",
     "pages": 384,
     "title": "Njál's Saga",
-    "year": 1350,
-    "price": 51,
-    "rating": 3,
-    "reviews": 140
+    "year": 1350
   },
   {
     "author": "Jane Austen",
@@ -98,10 +77,7 @@
     "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
     "pages": 226,
     "title": "Pride and Prejudice",
-    "year": 1813,
-    "price": 55,
-    "rating": 2,
-    "reviews": 240
+    "year": 1813
   },
   {
     "author": "Honoré de Balzac",
@@ -111,10 +87,7 @@
     "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot\n",
     "pages": 443,
     "title": "Le Père Goriot",
-    "year": 1835,
-    "price": 7,
-    "rating": 1,
-    "reviews": 387
+    "year": 1835
   },
   {
     "author": "Samuel Beckett",
@@ -124,10 +97,7 @@
     "link": "https://en.wikipedia.org/wiki/Molloy_(novel)\n",
     "pages": 256,
     "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
-    "year": 1952,
-    "price": 77,
-    "rating": 3,
-    "reviews": 120
+    "year": 1952
   },
   {
     "author": "Giovanni Boccaccio",
@@ -137,10 +107,7 @@
     "link": "https://en.wikipedia.org/wiki/The_Decameron\n",
     "pages": 1024,
     "title": "The Decameron",
-    "year": 1351,
-    "price": 56,
-    "rating": 1,
-    "reviews": 258
+    "year": 1351
   },
   {
     "author": "Jorge Luis Borges",
@@ -150,10 +117,7 @@
     "link": "https://en.wikipedia.org/wiki/Ficciones\n",
     "pages": 224,
     "title": "Ficciones",
-    "year": 1965,
-    "price": 65,
-    "rating": 5,
-    "reviews": 423
+    "year": 1965
   },
   {
     "author": "Emily Brontë",
@@ -163,10 +127,7 @@
     "link": "https://en.wikipedia.org/wiki/Wuthering_Heights\n",
     "pages": 342,
     "title": "Wuthering Heights",
-    "year": 1847,
-    "price": 89,
-    "rating": 4,
-    "reviews": 52
+    "year": 1847
   },
   {
     "author": "Albert Camus",
@@ -176,10 +137,7 @@
     "link": "https://en.wikipedia.org/wiki/The_Stranger_(novel)\n",
     "pages": 185,
     "title": "The Stranger",
-    "year": 1942,
-    "price": 91,
-    "rating": 2,
-    "reviews": 494
+    "year": 1942
   },
   {
     "author": "Paul Celan",
@@ -189,10 +147,7 @@
     "link": "\n",
     "pages": 320,
     "title": "Poems",
-    "year": 1952,
-    "price": 90,
-    "rating": 3,
-    "reviews": 445
+    "year": 1952
   },
   {
     "author": "Louis-Ferdinand Céline",
@@ -202,10 +157,7 @@
     "link": "https://en.wikipedia.org/wiki/Journey_to_the_End_of_the_Night\n",
     "pages": 505,
     "title": "Journey to the End of the Night",
-    "year": 1932,
-    "price": 64,
-    "rating": 3,
-    "reviews": 217
+    "year": 1932
   },
   {
     "author": "Miguel de Cervantes",
@@ -215,10 +167,7 @@
     "link": "https://en.wikipedia.org/wiki/Don_Quixote\n",
     "pages": 1056,
     "title": "Don Quijote De La Mancha",
-    "year": 1610,
-    "price": 41,
-    "rating": 2,
-    "reviews": 279
+    "year": 1610
   },
   {
     "author": "Geoffrey Chaucer",
@@ -228,10 +177,7 @@
     "link": "https://en.wikipedia.org/wiki/The_Canterbury_Tales\n",
     "pages": 544,
     "title": "The Canterbury Tales",
-    "year": 1450,
-    "price": 74,
-    "rating": 4,
-    "reviews": 301
+    "year": 1450
   },
   {
     "author": "Anton Chekhov",
@@ -241,10 +187,7 @@
     "link": "https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov\n",
     "pages": 194,
     "title": "Stories",
-    "year": 1886,
-    "price": 26,
-    "rating": 4,
-    "reviews": 262
+    "year": 1886
   },
   {
     "author": "Joseph Conrad",
@@ -254,10 +197,7 @@
     "link": "https://en.wikipedia.org/wiki/Nostromo\n",
     "pages": 320,
     "title": "Nostromo",
-    "year": 1904,
-    "price": 62,
-    "rating": 2,
-    "reviews": 349
+    "year": 1904
   },
   {
     "author": "Charles Dickens",
@@ -267,10 +207,7 @@
     "link": "https://en.wikipedia.org/wiki/Great_Expectations\n",
     "pages": 194,
     "title": "Great Expectations",
-    "year": 1861,
-    "price": 43,
-    "rating": 4,
-    "reviews": 14
+    "year": 1861
   },
   {
     "author": "Denis Diderot",
@@ -280,10 +217,7 @@
     "link": "https://en.wikipedia.org/wiki/Jacques_the_Fatalist\n",
     "pages": 596,
     "title": "Jacques the Fatalist",
-    "year": 1796,
-    "price": 45,
-    "rating": 2,
-    "reviews": 11
+    "year": 1796
   },
   {
     "author": "Alfred Döblin",
@@ -293,10 +227,7 @@
     "link": "https://en.wikipedia.org/wiki/Berlin_Alexanderplatz\n",
     "pages": 600,
     "title": "Berlin Alexanderplatz",
-    "year": 1929,
-    "price": 25,
-    "rating": 3,
-    "reviews": 119
+    "year": 1929
   },
   {
     "author": "Fyodor Dostoevsky",
@@ -306,10 +237,7 @@
     "link": "https://en.wikipedia.org/wiki/Crime_and_Punishment\n",
     "pages": 551,
     "title": "Crime and Punishment",
-    "year": 1866,
-    "price": 56,
-    "rating": 1,
-    "reviews": 344
+    "year": 1866
   },
   {
     "author": "Fyodor Dostoevsky",
@@ -319,10 +247,7 @@
     "link": "https://en.wikipedia.org/wiki/The_Idiot\n",
     "pages": 656,
     "title": "The Idiot",
-    "year": 1869,
-    "price": 68,
-    "rating": 3,
-    "reviews": 251
+    "year": 1869
   },
   {
     "author": "Fyodor Dostoevsky",
@@ -332,10 +257,7 @@
     "link": "https://en.wikipedia.org/wiki/Demons_(Dostoyevsky_novel)\n",
     "pages": 768,
     "title": "The Possessed",
-    "year": 1872,
-    "price": 8,
-    "rating": 3,
-    "reviews": 37
+    "year": 1872
   },
   {
     "author": "Fyodor Dostoevsky",
@@ -345,10 +267,7 @@
     "link": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov\n",
     "pages": 824,
     "title": "The Brothers Karamazov",
-    "year": 1880,
-    "price": 31,
-    "rating": 5,
-    "reviews": 388
+    "year": 1880
   },
   {
     "author": "George Eliot",
@@ -358,10 +277,7 @@
     "link": "https://en.wikipedia.org/wiki/Middlemarch\n",
     "pages": 800,
     "title": "Middlemarch",
-    "year": 1871,
-    "price": 31,
-    "rating": 1,
-    "reviews": 221
+    "year": 1871
   },
   {
     "author": "Ralph Ellison",
@@ -371,10 +287,7 @@
     "link": "https://en.wikipedia.org/wiki/Invisible_Man\n",
     "pages": 581,
     "title": "Invisible Man",
-    "year": 1952,
-    "price": 58,
-    "rating": 1,
-    "reviews": 155
+    "year": 1952
   },
   {
     "author": "Euripides",
@@ -384,10 +297,7 @@
     "link": "https://en.wikipedia.org/wiki/Medea_(play)\n",
     "pages": 104,
     "title": "Medea",
-    "year": 431,
-    "price": 51,
-    "rating": 4,
-    "reviews": 319
+    "year": 431
   },
   {
     "author": "William Faulkner",
@@ -397,10 +307,7 @@
     "link": "https://en.wikipedia.org/wiki/Absalom,_Absalom!\n",
     "pages": 313,
     "title": "Absalom, Absalom!",
-    "year": 1936,
-    "price": 5,
-    "rating": 1,
-    "reviews": 296
+    "year": 1936
   },
   {
     "author": "William Faulkner",
@@ -410,10 +317,7 @@
     "link": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury\n",
     "pages": 326,
     "title": "The Sound and the Fury",
-    "year": 1929,
-    "price": 67,
-    "rating": 4,
-    "reviews": 405
+    "year": 1929
   },
   {
     "author": "Gustave Flaubert",
@@ -423,10 +327,7 @@
     "link": "https://en.wikipedia.org/wiki/Madame_Bovary\n",
     "pages": 528,
     "title": "Madame Bovary",
-    "year": 1857,
-    "price": 22,
-    "rating": 2,
-    "reviews": 333
+    "year": 1857
   },
   {
     "author": "Gustave Flaubert",
@@ -436,10 +337,7 @@
     "link": "https://en.wikipedia.org/wiki/Sentimental_Education\n",
     "pages": 606,
     "title": "Sentimental Education",
-    "year": 1869,
-    "price": 28,
-    "rating": 2,
-    "reviews": 17
+    "year": 1869
   },
   {
     "author": "Federico García Lorca",
@@ -449,10 +347,7 @@
     "link": "https://en.wikipedia.org/wiki/Gypsy_Ballads\n",
     "pages": 218,
     "title": "Gypsy Ballads",
-    "year": 1928,
-    "price": 78,
-    "rating": 2,
-    "reviews": 94
+    "year": 1928
   },
   {
     "author": "Gabriel García Márquez",
@@ -462,10 +357,7 @@
     "link": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude\n",
     "pages": 417,
     "title": "One Hundred Years of Solitude",
-    "year": 1967,
-    "price": 16,
-    "rating": 2,
-    "reviews": 150
+    "year": 1967
   },
   {
     "author": "Gabriel García Márquez",
@@ -475,10 +367,7 @@
     "link": "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera\n",
     "pages": 368,
     "title": "Love in the Time of Cholera",
-    "year": 1985,
-    "price": 65,
-    "rating": 1,
-    "reviews": 16
+    "year": 1985
   },
   {
     "author": "Johann Wolfgang von Goethe",
@@ -488,10 +377,7 @@
     "link": "https://en.wikipedia.org/wiki/Goethe%27s_Faust\n",
     "pages": 158,
     "title": "Faust",
-    "year": 1832,
-    "price": 53,
-    "rating": 3,
-    "reviews": 42
+    "year": 1832
   },
   {
     "author": "Nikolai Gogol",
@@ -501,10 +387,7 @@
     "link": "https://en.wikipedia.org/wiki/Dead_Souls\n",
     "pages": 432,
     "title": "Dead Souls",
-    "year": 1842,
-    "price": 50,
-    "rating": 3,
-    "reviews": 33
+    "year": 1842
   },
   {
     "author": "Günter Grass",
@@ -514,10 +397,7 @@
     "link": "https://en.wikipedia.org/wiki/The_Tin_Drum\n",
     "pages": 600,
     "title": "The Tin Drum",
-    "year": 1959,
-    "price": 14,
-    "rating": 2,
-    "reviews": 459
+    "year": 1959
   },
   {
     "author": "João Guimarães Rosa",
@@ -527,10 +407,7 @@
     "link": "https://en.wikipedia.org/wiki/The_Devil_to_Pay_in_the_Backlands\n",
     "pages": 494,
     "title": "The Devil to Pay in the Backlands",
-    "year": 1956,
-    "price": 17,
-    "rating": 3,
-    "reviews": 113
+    "year": 1956
   },
   {
     "author": "Knut Hamsun",
@@ -540,10 +417,7 @@
     "link": "https://en.wikipedia.org/wiki/Hunger_(Hamsun_novel)\n",
     "pages": 176,
     "title": "Hunger",
-    "year": 1890,
-    "price": 53,
-    "rating": 3,
-    "reviews": 314
+    "year": 1890
   },
   {
     "author": "Ernest Hemingway",
@@ -553,10 +427,7 @@
     "link": "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea\n",
     "pages": 128,
     "title": "The Old Man and the Sea",
-    "year": 1952,
-    "price": 76,
-    "rating": 3,
-    "reviews": 42
+    "year": 1952
   },
   {
     "author": "Homer",
@@ -566,10 +437,7 @@
     "link": "https://en.wikipedia.org/wiki/Iliad\n",
     "pages": 608,
     "title": "Iliad",
-    "year": 735,
-    "price": 10,
-    "rating": 2,
-    "reviews": 399
+    "year": 735
   },
   {
     "author": "Homer",
@@ -579,10 +447,7 @@
     "link": "https://en.wikipedia.org/wiki/Odyssey\n",
     "pages": 374,
     "title": "Odyssey",
-    "year": 800,
-    "price": 40,
-    "rating": 2,
-    "reviews": 74
+    "year": 800
   },
   {
     "author": "Henrik Ibsen",
@@ -592,10 +457,7 @@
     "link": "https://en.wikipedia.org/wiki/A_Doll%27s_House\n",
     "pages": 68,
     "title": "A Doll's House",
-    "year": 1879,
-    "price": 64,
-    "rating": 4,
-    "reviews": 110
+    "year": 1879
   },
   {
     "author": "James Joyce",
@@ -605,10 +467,7 @@
     "link": "https://en.wikipedia.org/wiki/Ulysses_(novel)\n",
     "pages": 228,
     "title": "Ulysses",
-    "year": 1922,
-    "price": 70,
-    "rating": 4,
-    "reviews": 458
+    "year": 1922
   },
   {
     "author": "Franz Kafka",
@@ -618,10 +477,7 @@
     "link": "https://en.wikipedia.org/wiki/Franz_Kafka_bibliography#Short_stories\n",
     "pages": 488,
     "title": "Stories",
-    "year": 1924,
-    "price": 53,
-    "rating": 3,
-    "reviews": 158
+    "year": 1924
   },
   {
     "author": "Franz Kafka",
@@ -631,10 +487,7 @@
     "link": "https://en.wikipedia.org/wiki/The_Trial\n",
     "pages": 160,
     "title": "The Trial",
-    "year": 1925,
-    "price": 88,
-    "rating": 4,
-    "reviews": 499
+    "year": 1925
   },
   {
     "author": "Franz Kafka",
@@ -644,10 +497,7 @@
     "link": "https://en.wikipedia.org/wiki/The_Castle_(novel)\n",
     "pages": 352,
     "title": "The Castle",
-    "year": 1926,
-    "price": 80,
-    "rating": 4,
-    "reviews": 435
+    "year": 1926
   },
   {
     "author": "Kālidāsa",
@@ -657,10 +507,7 @@
     "link": "https://en.wikipedia.org/wiki/Abhij%C3%B1%C4%81na%C5%9B%C4%81kuntalam\n",
     "pages": 147,
     "title": "The recognition of Shakuntala",
-    "year": 150,
-    "price": 83,
-    "rating": 5,
-    "reviews": 382
+    "year": 150
   },
   {
     "author": "Yasunari Kawabata",
@@ -670,10 +517,7 @@
     "link": "https://en.wikipedia.org/wiki/The_Sound_of_the_Mountain\n",
     "pages": 288,
     "title": "The Sound of the Mountain",
-    "year": 1954,
-    "price": 72,
-    "rating": 3,
-    "reviews": 105
+    "year": 1954
   },
   {
     "author": "Nikos Kazantzakis",
@@ -683,10 +527,7 @@
     "link": "https://en.wikipedia.org/wiki/Zorba_the_Greek\n",
     "pages": 368,
     "title": "Zorba the Greek",
-    "year": 1946,
-    "price": 27,
-    "rating": 2,
-    "reviews": 61
+    "year": 1946
   },
   {
     "author": "D. H. Lawrence",
@@ -696,10 +537,7 @@
     "link": "https://en.wikipedia.org/wiki/Sons_and_Lovers\n",
     "pages": 432,
     "title": "Sons and Lovers",
-    "year": 1913,
-    "price": 18,
-    "rating": 5,
-    "reviews": 375
+    "year": 1913
   },
   {
     "author": "Halldór Laxness",
@@ -709,10 +547,7 @@
     "link": "https://en.wikipedia.org/wiki/Independent_People\n",
     "pages": 470,
     "title": "Independent People",
-    "year": 1934,
-    "price": 6,
-    "rating": 4,
-    "reviews": 287
+    "year": 1934
   },
   {
     "author": "Giacomo Leopardi",
@@ -722,10 +557,7 @@
     "link": "\n",
     "pages": 184,
     "title": "Poems",
-    "year": 1818,
-    "price": 16,
-    "rating": 4,
-    "reviews": 393
+    "year": 1818
   },
   {
     "author": "Doris Lessing",
@@ -735,10 +567,7 @@
     "link": "https://en.wikipedia.org/wiki/The_Golden_Notebook\n",
     "pages": 688,
     "title": "The Golden Notebook",
-    "year": 1962,
-    "price": 82,
-    "rating": 3,
-    "reviews": 209
+    "year": 1962
   },
   {
     "author": "Astrid Lindgren",
@@ -748,10 +577,7 @@
     "link": "https://en.wikipedia.org/wiki/Pippi_Longstocking\n",
     "pages": 160,
     "title": "Pippi Longstocking",
-    "year": 1945,
-    "price": 52,
-    "rating": 4,
-    "reviews": 281
+    "year": 1945
   },
   {
     "author": "Lu Xun",
@@ -761,10 +587,7 @@
     "link": "https://en.wikipedia.org/wiki/A_Madman%27s_Diary\n",
     "pages": 389,
     "title": "Diary of a Madman",
-    "year": 1918,
-    "price": 30,
-    "rating": 5,
-    "reviews": 33
+    "year": 1918
   },
   {
     "author": "Naguib Mahfouz",
@@ -774,10 +597,7 @@
     "link": "https://en.wikipedia.org/wiki/Children_of_Gebelawi\n",
     "pages": 355,
     "title": "Children of Gebelawi",
-    "year": 1959,
-    "price": 75,
-    "rating": 3,
-    "reviews": 120
+    "year": 1959
   },
   {
     "author": "Thomas Mann",
@@ -787,10 +607,7 @@
     "link": "https://en.wikipedia.org/wiki/Buddenbrooks\n",
     "pages": 736,
     "title": "Buddenbrooks",
-    "year": 1901,
-    "price": 86,
-    "rating": 0,
-    "reviews": 137
+    "year": 1901
   },
   {
     "author": "Thomas Mann",
@@ -800,10 +617,7 @@
     "link": "https://en.wikipedia.org/wiki/The_Magic_Mountain\n",
     "pages": 720,
     "title": "The Magic Mountain",
-    "year": 1924,
-    "price": 12,
-    "rating": 3,
-    "reviews": 318
+    "year": 1924
   },
   {
     "author": "Herman Melville",
@@ -813,10 +627,7 @@
     "link": "https://en.wikipedia.org/wiki/Moby-Dick\n",
     "pages": 378,
     "title": "Moby Dick",
-    "year": 1851,
-    "price": 12,
-    "rating": 0,
-    "reviews": 245
+    "year": 1851
   },
   {
     "author": "Michel de Montaigne",
@@ -826,10 +637,7 @@
     "link": "https://en.wikipedia.org/wiki/Essays_(Montaigne)\n",
     "pages": 404,
     "title": "Essays",
-    "year": 1595,
-    "price": 19,
-    "rating": 2,
-    "reviews": 1
+    "year": 1595
   },
   {
     "author": "Elsa Morante",
@@ -839,10 +647,7 @@
     "link": "https://en.wikipedia.org/wiki/History_(novel)\n",
     "pages": 600,
     "title": "History",
-    "year": 1974,
-    "price": 7,
-    "rating": 1,
-    "reviews": 177
+    "year": 1974
   },
   {
     "author": "Toni Morrison",
@@ -852,10 +657,7 @@
     "link": "https://en.wikipedia.org/wiki/Beloved_(novel)\n",
     "pages": 321,
     "title": "Beloved",
-    "year": 1987,
-    "price": 89,
-    "rating": 1,
-    "reviews": 351
+    "year": 1987
   },
   {
     "author": "Murasaki Shikibu",
@@ -865,10 +667,7 @@
     "link": "https://en.wikipedia.org/wiki/The_Tale_of_Genji\n",
     "pages": 1360,
     "title": "The Tale of Genji",
-    "year": 1006,
-    "price": 88,
-    "rating": 3,
-    "reviews": 158
+    "year": 1006
   },
   {
     "author": "Robert Musil",
@@ -878,10 +677,7 @@
     "link": "https://en.wikipedia.org/wiki/The_Man_Without_Qualities\n",
     "pages": 365,
     "title": "The Man Without Qualities",
-    "year": 1931,
-    "price": 66,
-    "rating": 2,
-    "reviews": 496
+    "year": 1931
   },
   {
     "author": "Vladimir Nabokov",
@@ -891,10 +687,7 @@
     "link": "https://en.wikipedia.org/wiki/Lolita\n",
     "pages": 317,
     "title": "Lolita",
-    "year": 1955,
-    "price": 13,
-    "rating": 5,
-    "reviews": 201
+    "year": 1955
   },
   {
     "author": "George Orwell",
@@ -904,10 +697,7 @@
     "link": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four\n",
     "pages": 272,
     "title": "Nineteen Eighty-Four",
-    "year": 1949,
-    "price": 56,
-    "rating": 0,
-    "reviews": 232
+    "year": 1949
   },
   {
     "author": "Ovid",
@@ -917,10 +707,7 @@
     "link": "https://en.wikipedia.org/wiki/Metamorphoses\n",
     "pages": 576,
     "title": "Metamorphoses",
-    "year": 100,
-    "price": 61,
-    "rating": 2,
-    "reviews": 221
+    "year": 100
   },
   {
     "author": "Fernando Pessoa",
@@ -930,10 +717,7 @@
     "link": "https://en.wikipedia.org/wiki/The_Book_of_Disquiet\n",
     "pages": 272,
     "title": "The Book of Disquiet",
-    "year": 1928,
-    "price": 66,
-    "rating": 1,
-    "reviews": 400
+    "year": 1928
   },
   {
     "author": "Edgar Allan Poe",
@@ -943,10 +727,7 @@
     "link": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe_bibliography#Tales\n",
     "pages": 842,
     "title": "Tales",
-    "year": 1950,
-    "price": 76,
-    "rating": 3,
-    "reviews": 414
+    "year": 1950
   },
   {
     "author": "Marcel Proust",
@@ -956,10 +737,7 @@
     "link": "https://en.wikipedia.org/wiki/In_Search_of_Lost_Time\n",
     "pages": 2408,
     "title": "In Search of Lost Time",
-    "year": 1920,
-    "price": 99,
-    "rating": 1,
-    "reviews": 257
+    "year": 1920
   },
   {
     "author": "François Rabelais",
@@ -969,10 +747,7 @@
     "link": "https://en.wikipedia.org/wiki/Gargantua_and_Pantagruel\n",
     "pages": 623,
     "title": "Gargantua and Pantagruel",
-    "year": 1533,
-    "price": 43,
-    "rating": 0,
-    "reviews": 111
+    "year": 1533
   },
   {
     "author": "Juan Rulfo",
@@ -982,10 +757,7 @@
     "link": "https://en.wikipedia.org/wiki/Pedro_P%C3%A1ramo\n",
     "pages": 124,
     "title": "Pedro Páramo",
-    "year": 1955,
-    "price": 54,
-    "rating": 2,
-    "reviews": 93
+    "year": 1955
   },
   {
     "author": "Rumi",
@@ -995,10 +767,7 @@
     "link": "https://en.wikipedia.org/wiki/Masnavi\n",
     "pages": 438,
     "title": "The Masnavi",
-    "year": 1236,
-    "price": 3,
-    "rating": 3,
-    "reviews": 344
+    "year": 1236
   },
   {
     "author": "Salman Rushdie",
@@ -1008,10 +777,7 @@
     "link": "https://en.wikipedia.org/wiki/Midnight%27s_Children\n",
     "pages": 536,
     "title": "Midnight's Children",
-    "year": 1981,
-    "price": 13,
-    "rating": 3,
-    "reviews": 384
+    "year": 1981
   },
   {
     "author": "Saadi",
@@ -1021,10 +787,7 @@
     "link": "https://en.wikipedia.org/wiki/Bustan_(book)\n",
     "pages": 298,
     "title": "Bostan",
-    "year": 1257,
-    "price": 3,
-    "rating": 0,
-    "reviews": 298
+    "year": 1257
   },
   {
     "author": "Tayeb Salih",
@@ -1034,10 +797,7 @@
     "link": "https://en.wikipedia.org/wiki/Season_of_Migration_to_the_North\n",
     "pages": 139,
     "title": "Season of Migration to the North",
-    "year": 1966,
-    "price": 61,
-    "rating": 3,
-    "reviews": 260
+    "year": 1966
   },
   {
     "author": "José Saramago",
@@ -1047,10 +807,7 @@
     "link": "https://en.wikipedia.org/wiki/Blindness_(novel)\n",
     "pages": 352,
     "title": "Blindness",
-    "year": 1995,
-    "price": 95,
-    "rating": 4,
-    "reviews": 354
+    "year": 1995
   },
   {
     "author": "William Shakespeare",
@@ -1060,10 +817,7 @@
     "link": "https://en.wikipedia.org/wiki/Hamlet\n",
     "pages": 432,
     "title": "Hamlet",
-    "year": 1603,
-    "price": 39,
-    "rating": 0,
-    "reviews": 400
+    "year": 1603
   },
   {
     "author": "William Shakespeare",
@@ -1073,10 +827,7 @@
     "link": "https://en.wikipedia.org/wiki/King_Lear\n",
     "pages": 384,
     "title": "King Lear",
-    "year": 1608,
-    "price": 7,
-    "rating": 2,
-    "reviews": 92
+    "year": 1608
   },
   {
     "author": "William Shakespeare",
@@ -1086,10 +837,7 @@
     "link": "https://en.wikipedia.org/wiki/Othello\n",
     "pages": 314,
     "title": "Othello",
-    "year": 1609,
-    "price": 75,
-    "rating": 1,
-    "reviews": 164
+    "year": 1609
   },
   {
     "author": "Sophocles",
@@ -1099,10 +847,7 @@
     "link": "https://en.wikipedia.org/wiki/Oedipus_the_King\n",
     "pages": 88,
     "title": "Oedipus the King",
-    "year": 430,
-    "price": 62,
-    "rating": 2,
-    "reviews": 473
+    "year": 430
   },
   {
     "author": "Stendhal",
@@ -1112,10 +857,7 @@
     "link": "https://en.wikipedia.org/wiki/The_Red_and_the_Black\n",
     "pages": 576,
     "title": "The Red and the Black",
-    "year": 1830,
-    "price": 18,
-    "rating": 1,
-    "reviews": 163
+    "year": 1830
   },
   {
     "author": "Laurence Sterne",
@@ -1125,10 +867,7 @@
     "link": "https://en.wikipedia.org/wiki/The_Life_and_Opinions_of_Tristram_Shandy,_Gentleman\n",
     "pages": 640,
     "title": "The Life And Opinions of Tristram Shandy",
-    "year": 1760,
-    "price": 99,
-    "rating": 2,
-    "reviews": 412
+    "year": 1760
   },
   {
     "author": "Italo Svevo",
@@ -1138,10 +877,7 @@
     "link": "https://en.wikipedia.org/wiki/Zeno%27s_Conscience\n",
     "pages": 412,
     "title": "Confessions of Zeno",
-    "year": 1923,
-    "price": 21,
-    "rating": 1,
-    "reviews": 217
+    "year": 1923
   },
   {
     "author": "Jonathan Swift",
@@ -1151,10 +887,7 @@
     "link": "https://en.wikipedia.org/wiki/Gulliver%27s_Travels\n",
     "pages": 178,
     "title": "Gulliver's Travels",
-    "year": 1726,
-    "price": 15,
-    "rating": 4,
-    "reviews": 456
+    "year": 1726
   },
   {
     "author": "Leo Tolstoy",
@@ -1164,10 +897,7 @@
     "link": "https://en.wikipedia.org/wiki/War_and_Peace\n",
     "pages": 1296,
     "title": "War and Peace",
-    "year": 1867,
-    "price": 11,
-    "rating": 0,
-    "reviews": 497
+    "year": 1867
   },
   {
     "author": "Leo Tolstoy",
@@ -1177,10 +907,7 @@
     "link": "https://en.wikipedia.org/wiki/Anna_Karenina\n",
     "pages": 864,
     "title": "Anna Karenina",
-    "year": 1877,
-    "price": 93,
-    "rating": 2,
-    "reviews": 418
+    "year": 1877
   },
   {
     "author": "Leo Tolstoy",
@@ -1190,10 +917,7 @@
     "link": "https://en.wikipedia.org/wiki/The_Death_of_Ivan_Ilyich\n",
     "pages": 92,
     "title": "The Death of Ivan Ilyich",
-    "year": 1886,
-    "price": 13,
-    "rating": 4,
-    "reviews": 374
+    "year": 1886
   },
   {
     "author": "Mark Twain",
@@ -1203,10 +927,7 @@
     "link": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn\n",
     "pages": 224,
     "title": "The Adventures of Huckleberry Finn",
-    "year": 1884,
-    "price": 47,
-    "rating": 0,
-    "reviews": 482
+    "year": 1884
   },
   {
     "author": "Valmiki",
@@ -1216,10 +937,7 @@
     "link": "https://en.wikipedia.org/wiki/Ramayana\n",
     "pages": 152,
     "title": "Ramayana",
-    "year": 450,
-    "price": 55,
-    "rating": 1,
-    "reviews": 168
+    "year": 450
   },
   {
     "author": "Virgil",
@@ -1229,10 +947,7 @@
     "link": "https://en.wikipedia.org/wiki/Aeneid\n",
     "pages": 442,
     "title": "The Aeneid",
-    "year": 23,
-    "price": 45,
-    "rating": 3,
-    "reviews": 392
+    "year": 23
   },
   {
     "author": "Vyasa",
@@ -1242,10 +957,7 @@
     "link": "https://en.wikipedia.org/wiki/Mahabharata\n",
     "pages": 276,
     "title": "Mahabharata",
-    "year": 700,
-    "price": 9,
-    "rating": 1,
-    "reviews": 488
+    "year": 700
   },
   {
     "author": "Walt Whitman",
@@ -1255,10 +967,7 @@
     "link": "https://en.wikipedia.org/wiki/Leaves_of_Grass\n",
     "pages": 152,
     "title": "Leaves of Grass",
-    "year": 1855,
-    "price": 29,
-    "rating": 3,
-    "reviews": 212
+    "year": 1855
   },
   {
     "author": "Virginia Woolf",
@@ -1268,10 +977,7 @@
     "link": "https://en.wikipedia.org/wiki/Mrs_Dalloway\n",
     "pages": 216,
     "title": "Mrs Dalloway",
-    "year": 1925,
-    "price": 17,
-    "rating": 4,
-    "reviews": 319
+    "year": 1925
   },
   {
     "author": "Virginia Woolf",
@@ -1281,10 +987,7 @@
     "link": "https://en.wikipedia.org/wiki/To_the_Lighthouse\n",
     "pages": 209,
     "title": "To the Lighthouse",
-    "year": 1927,
-    "price": 53,
-    "rating": 3,
-    "reviews": 364
+    "year": 1927
   },
   {
     "author": "Marguerite Yourcenar",
@@ -1294,9 +997,6 @@
     "link": "https://en.wikipedia.org/wiki/Memoirs_of_Hadrian\n",
     "pages": 408,
     "title": "Memoirs of Hadrian",
-    "year": 1951,
-    "price": 89,
-    "rating": 4,
-    "reviews": 32
+    "year": 1951
   }
 ]
