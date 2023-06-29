@@ -30,6 +30,7 @@ const addPropertiesToData = () => {
       price: Math.round(Math.random() * 100),
       rating: Math.round(Math.random() * 5),
       reviews: Math.round(Math.random() * 500),
+      is_liked: i % 2 == 0,
     };
 
     const item = { ...BOOKS2[i], ...properties };
