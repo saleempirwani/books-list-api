@@ -140,20 +140,6 @@
     "is_liked": false
   },
   {
-    "author": "Giovanni Boccaccio",
-    "country": "Italy",
-    "imageLink": "https://i.ibb.co/tPKkF40/the-decameron.jpg",
-    "language": "Italian",
-    "link": "https://en.wikipedia.org/wiki/The_Decameron\n",
-    "pages": 1024,
-    "title": "The Decameron",
-    "year": 1351,
-    "price": 7,
-    "rating": 1,
-    "reviews": 41,
-    "is_liked": true
-  },
-  {
     "author": "Jorge Luis Borges",
     "country": "Argentina",
     "imageLink": "https://i.ibb.co/b34Nyk5/ficciones.jpg",
